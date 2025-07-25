@@ -2,3 +2,8 @@
 .idea/
 drop/
 go_build_main_go
+app-service-and-sql-database/.terraform.lock.hcl
+app-service-and-sql-database/.terraform/
+app-service-and-sql-database/terraform.tfstate
+app-service-and-sql-database/terraform.tfstate.backup
+app-service-and-sql-database/tfplan
